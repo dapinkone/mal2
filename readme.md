@@ -17,7 +17,7 @@ for anime in mal_acct.anime_list:
 ***
 Each object (Anime) contains the follow attributes (represented as JSON for ease of reading)
 
-``` JSON
+``` python
 {
     'anime_airing_status': 2,
     'anime_end_date_string': '30-09-07',
